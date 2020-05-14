@@ -2,5 +2,14 @@ body {
     background-color: powderblue;
 }
 
-.footer {text-align: center; font-weight: bold;
+.footer {
+    text-align: center; font-weight: bold;
+}
+
+p {
+    font-size: medium; font-weight: bolder;
+}
+
+.row1 {
+    text-align: center; color: blue;
 }
