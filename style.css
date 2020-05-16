@@ -3,8 +3,12 @@ body {
 }
 
 .container {
-    box-sizing: content-box; background-color: skyblue; 
-    margin-top: 20px; margin-bottom: 20px;
+    box-sizing: content-box; 
+    background-color: skyblue; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .row1 {
@@ -17,6 +21,10 @@ img {
 
 p {
     font-size: medium; font-weight: bolder; line-height: 40px;
+}
+
+button {
+    padding-bottom: 25px;
 }
 
 footer {
