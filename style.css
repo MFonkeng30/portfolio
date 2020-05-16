@@ -2,14 +2,23 @@ body {
     background-color: powderblue;
 }
 
-.footer {
-    text-align: center; font-weight: bold;
-}
-
-p {
-    font-size: medium; font-weight: bolder;
+.container {
+    box-sizing: content-box; background-color: skyblue; 
+    margin-top: 20px; margin-bottom: 20px;
 }
 
 .row1 {
-    text-align: center; color: blue;
+    text-align: center; color: royalblue;
+}
+
+img {
+    padding-left: 20px; padding-bottom: 25px
+}
+
+p {
+    font-size: medium; font-weight: bolder; line-height: 40px;
+}
+
+footer {
+    text-align: center; font-weight: bold;
 }
