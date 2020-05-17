@@ -2,6 +2,10 @@ body {
     background-color: powderblue;
 }
 
+h1 {
+    padding-top: 25px;
+}
+
 .container {
     box-sizing: content-box; 
     background-color: skyblue; 
